@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10070C,50:451126,100:701A3D&height=180&section=header&text=CHIRAG%20N%20M&fontSize=42&fontColor=F8F0F3&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/chiragnm34/chiragnm34/main/assets/hero.svg" width="100%" alt="Chirag N M profile banner" />
 
 # Hi, I'm Chirag N M 👋
 
